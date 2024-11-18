@@ -1,4 +1,4 @@
-[6:03 pm, 17/11/2024] Keerthii It: import streamlit as st
+import streamlit as st
 import random
 
 # Function to start or reset the game
